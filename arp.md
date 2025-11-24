@@ -6,7 +6,7 @@
 
 ## 📌 1. ARP란?
 
-\*\*ARP(Address Resolution Protocol)\*\*는 **IPv4 네트워크에서 IP 주소를 MAC 주소로 변환**하는 데 사용되는 필수 프로토콜입니다.
+**ARP(Address Resolution Protocol)** 는 **IPv4 네트워크에서 IP 주소를 MAC 주소로 변환**하는 데 사용되는 필수 프로토콜입니다.
 
 > ✅ IP는 논리 주소, MAC은 물리 주소
 > 네트워크에서 실제 데이터를 전송하려면 목적지 MAC 주소가 반드시 필요합니다.
